@@ -134,18 +134,22 @@ T Flipflop:
 ### RTL LOGIC FOR FLIPFLOPS 
 
 SR Flipflop:
+
 ![image](https://github.com/lalitchandran/Experiment--05-Implementation-of-flipflops-using-verilog/assets/137707725/9f5ea45f-f2f9-48e1-a81b-4f3e1a941207)
 
 
 JK Flipflop:
+
 ![image](https://github.com/lalitchandran/Experiment--05-Implementation-of-flipflops-using-verilog/assets/137707725/159c3a97-4d08-44a8-9f26-8874366f4826)
 
 
 D FLIPflop:
+
 ![image](https://github.com/lalitchandran/Experiment--05-Implementation-of-flipflops-using-verilog/assets/137707725/80a70143-a321-428a-8647-3a5018a597f1)
 
 
 T Flipflop:
+
 ![image](https://github.com/lalitchandran/Experiment--05-Implementation-of-flipflops-using-verilog/assets/137707725/5f4b96bd-613d-467b-9adb-54f3a00fa5f2)
 
 
