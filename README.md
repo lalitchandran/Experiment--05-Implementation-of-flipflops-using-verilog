@@ -115,15 +115,19 @@ RegisterNumber:23004048
 Code:
 
 SR FlipFlop:
+
 ![image](https://github.com/lalitchandran/Experiment--05-Implementation-of-flipflops-using-verilog/assets/137707725/0de325ed-5927-4233-b7f6-a77cce1265d2)
 
 JK Flipflop:
+
 ![image](https://github.com/lalitchandran/Experiment--05-Implementation-of-flipflops-using-verilog/assets/137707725/a2104d5d-38fd-4c77-94f2-f619a9f12bd4)
 
 D Flipflop:
+
 ![image](https://github.com/lalitchandran/Experiment--05-Implementation-of-flipflops-using-verilog/assets/137707725/13689bde-bfab-4acf-bc43-77c4fcab33e0)
 
 T Flipflop:
+
 ![image](https://github.com/lalitchandran/Experiment--05-Implementation-of-flipflops-using-verilog/assets/137707725/4826dea0-6172-434d-baad-fda72d0a70a0)
 
 
